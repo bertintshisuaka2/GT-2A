@@ -1,0 +1,23 @@
+{
+  "name": "gt-2a",
+  "version": "1.0.0",
+  "description": "HGSHGAjhaHJ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bertintshisuaka2/GT-2A.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bertintshisuaka2/GT-2A/issues"
+  },
+  "homepage": "https://github.com/bertintshisuaka2/GT-2A#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
